@@ -114,11 +114,11 @@ if (markerFound == 1) {
 <!-- END: Add Image Target (marker) -->
 
 <!-- BEGIN: Unity Compiled Objects -->
-<a-entity obj-model="obj: #Model_Asset_obj_0; mtl: #Model_Asset_mtl_0" scale="1.5978 1.5978 1.5978" class="intersectable" position="0.05965 0.5513501 -0.27091" rotation="0 0 0" color="#FFFFFF" 
+<a-entity obj-model="obj: #Model_Asset_obj_0;  scale="1.5978 1.5978 1.5978" class="intersectable" position="0.05965 0.5513501 -0.27091" rotation="0 0 0" color="#FFFFFF" 
 ></a-entity>
 <a-entity obj-model="obj: #Model_Asset_obj_1; mtl: #Model_Asset_mtl_1" scale="1.5595 1.5595 1.5595" class="intersectable" position="-0.2880175 0.53723 0.0704202" rotation="0 -247.143 0" color="#FFFFFF" 
 ></a-entity>
-<a-entity obj-model="obj: #Model_Asset_obj_2; mtl: #Model_Asset_mtl_2" scale="0.3862611 0.3862611 0.3862611" class="intersectable" position="-0.273 0.213 0.224" rotation="275.6123 -180 -180" color="#FFFFFF" 
+<a-entity obj-model="obj: #Model_Asset_obj_2" material="color: #696969; roughness: 1; metalness: 0" scale="0.3862611 0.3862611 0.3862611" class="intersectable" position="-0.273 0.213 0.224" rotation="275.6123 -180 -180" color="#FFFFFF" 
 ></a-entity>
 <a-box width="0.1" height="0.1" depth="0.1" class="intersectable" position="-0.321 0 0.33" rotation="0 0 0" color="#FFFFFF" 
 ></a-box>
