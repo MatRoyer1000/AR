@@ -98,6 +98,9 @@ if (markerFound == 1) {
 
 <!-- BEGIN: Unity Compiled Assets -->
 <a-assets>
+<a-asset-item id="Model_Asset_obj_0" src="models/Brush_txt2.obj"></a-asset-item>
+<a-asset-item id="Model_Asset_mtl_0" src="models/Brush_txt2.mtl"></a-asset-item>
+
 </a-assets>
 <!-- END: Unity Compiled Assets -->
 <!-- BEGIN: Add Image Target (marker) -->
@@ -105,10 +108,8 @@ if (markerFound == 1) {
 <!-- END: Add Image Target (marker) -->
 
 <!-- BEGIN: Unity Compiled Objects -->
-<a-box width="0.1" height="0.1" depth="0.1" class="intersectable" position="0.2 0.116 -0.266" rotation="0 0 0" color="#FF0000" 
-></a-box>
-<a-plane width="1" height="1" src="textures/Brueghel.png" class="intersectable" position="0 0.188 -0.325" rotation="300.0001 0 0" color="#FFFFFF" 
-></a-plane>
+<a-entity obj-model="obj: #Model_Asset_obj_0; mtl: #Model_Asset_mtl_0" scale="0.8964 0.8964 0.8964" class="intersectable" position="0.054581 0.28588 -0.16788" rotation="0 0 0" color="#FFFFFF" 
+></a-entity>
 <!-- END: Unity Compiled Objects -->
 
 <!-- BEGIN: Bottom HTML -->
