@@ -124,14 +124,14 @@ if (markerFound == 1) {
 <!-- BEGIN: Add Image Target (marker) -->
 <a-marker id="marker" type="pattern" preset="custom" src="patternARWS.patt" url="patternARWS.patt" emitevents="true" button>
 <!-- END: Add Image Target (marker) -->
-
+<a-video width="2.5885" height="2.5885" src="#Video_Asset_3" class="intersectable" position="0 0.048 -0.477" rotation="270 0 0" color="#FFFFFF" 
+></a-video>
 <!-- BEGIN: Unity Compiled Objects -->
 <a-box width="2.437357" height="0.0101338" depth="2.437357" src="textures/Memling_Marie2.png" class="intersectable" position="0.928 0.5255401 -0.436" rotation="0 0 0" material="shader:standard; transparent: false alphaTest: 0.9" 
 ></a-box>
 <!--<a-box width="2.437357" height="0.0101338" depth="2.437357" src="textures/Memling_MarieOmbre2.png" class="intersectable" position="0.928 -0.005 -0.436" rotation="0 0 0" material="shader:standard; transparent: true" 
 ></a-box>-->
-<a-video width="2.5885" height="2.5885" src="#Video_Asset_3" class="intersectable" position="0 0.048 -0.477" rotation="270 0 0" color="#FFFFFF" 
-></a-video>
+
 <!-- END: Unity Compiled Objects -->
 
 <!-- BEGIN: Bottom HTML -->
