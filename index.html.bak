@@ -130,7 +130,7 @@ if (markerFound == 1) {
 ></a-video>
 <a-box width="2.437357" height="0.0101338" depth="2.437357" src="textures/Memling_Marie2.png" class="intersectable" position="0.928 0.5255401 -0.436" rotation="0 0 0" material="shader:standard; transparent: true " 
 ></a-box>
-<a-box width="2.437357" height="0.0101338" depth="2.437357" src="textures/Memling_MarieOmbre2.png" class="intersectable" position="0.928 0.065 -0.436" rotation="0 0 0" material="shader:standard; transparent: true opacity: 0.7" 
+<a-box width="2.437357" height="0.0101338" depth="2.437357" src="textures/Memling_MarieOmbre2.png" class="intersectable" position="0.928 0.065 -0.436" rotation="0 0 0" material="shader:standard; transparent: true; opacity: 0.7" 
 ></a-box>
 
 <!-- END: Unity Compiled Objects -->
